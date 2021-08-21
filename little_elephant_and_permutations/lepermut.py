@@ -1,3 +1,5 @@
+# https://www.codechef.com/problems/LEPERMUT
+
 T = int(input())
 for _ in range(T):
     size = int(input())
