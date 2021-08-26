@@ -1,0 +1,10 @@
+# to test paste into standard in of treeroot.py . Output should be 6 .
+
+1
+6
+1 5
+2 0
+3 0
+4 0
+5 5
+6 5
